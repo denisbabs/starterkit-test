@@ -1,0 +1,36 @@
+{
+	"name":             "denisbabs/starterkit-test",
+	"description":      "testing.",
+	"keywords":         ["twig", "pattern lab", "starterkit", "bootstrap"],
+	"homepage":         "",
+	"license":          "MIT",
+	"type":             "patternlab-starterkit",
+	"authors": [
+		{
+			"name":         "Denis Babineau",
+			"email":        "denis@cheekymonkeymedia.ca",
+			"homepage":     "http://cheekymonkeymedia.ca",
+			"role":         "Developer"
+		}
+	],
+	"support": {
+		"issues":         "https://github.com/denisbabs/starterkit-test/issues",
+		"wiki":           "http://patternlab.io/docs/",
+		"source":         "https://github.com/denisbabs/starterkit-test/releases"
+	},
+	"require": {
+		"php": ">=5.4",
+		"pattern-lab/core": "^2.0.0",
+		"pattern-lab/patternengine-twig": "^2.0.0",
+	},
+	"minimum-stability": "dev",
+	"extra": {
+		"patternlab": {
+			"dist": {
+				"sourceDir": [
+					{ "*": "*" }
+				]
+			}
+		}
+	}
+}
