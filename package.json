@@ -1,0 +1,23 @@
+{
+  "name": "starterkit-test",
+  "version": "1.0.0",
+  "description": "Testing stuff out.",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisbabs/starterkit-test.git"
+  },
+  "keywords": [
+    "Pattern Lab",
+    "Atomic Design",
+    "Twig",
+    "Demo",
+    "Starterkit"
+  ],
+  "author": "Denis Babineau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/denisbabs/starterkit-test/issues"
+  },
+  "homepage": "https://github.com/denisbabs/starterkit-test#readme"
+}
